@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="fr" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://theme-veggie.myshopify.com/fr/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://theme-veggie.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://theme-veggie.myshopify.com/fr/collections/vegetables.atom"/>
+  <title>Theme: Veggie (Password: 1)</title>
+  <updated>2019-06-28T23:56:12-04:00</updated>
+  <author>
+    <name>Theme: Veggie (Password: 1)</name>
+  </author>
+  <entry>
+    <id>https://theme-veggie.myshopify.com/fr/products/3888962797681</id>
+    <published>2019-06-28T23:56:12-04:00</published>
+    <updated>2019-06-28T23:56:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://theme-veggie.myshopify.com/fr/products/nostrum-exercitationem"/>
+    <title>nostrum exercitationem</title>
+    <s:type>grocery</s:type>
+    <s:vendor>iaculis</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0048/8072/8177/products/13_4bb17279-2be3-4b39-b875-71e46051065a.jpg?v=1562224503"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Distributeur : </strong>iaculis<br>
+        <strong>Type : </strong>grocery<br>
+        <strong>Prix : </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Fashion has been creating well-designed collections since 2010. The brand offers feminine designs delivering stylish separates and statement dresses which have since evolved into a full ready-to-wear collection in which every item is a vital part of a woman's wardrobe. The result? Cool, easy, chic looks with youthful elegance and unmistakable signature style</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>green</s:tag>
+    <s:tag>medium</s:tag>
+    <s:tag>yellow</s:tag>
+    <s:variant>
+      <id>https://theme-veggie.myshopify.com/fr/products/3888962797681</id>
+      <title>M / yellow</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theme-veggie.myshopify.com/fr/products/3888962797681</id>
+      <title>M / green</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theme-veggie.myshopify.com/fr/products/2616278515825</id>
+    <published>2019-05-20T02:07:36-04:00</published>
+    <updated>2019-05-20T02:07:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://theme-veggie.myshopify.com/fr/products/reprehenderit-qui-in-east-4"/>
+    <title>reprehenderit qui in east</title>
+    <s:type>grocery</s:type>
+    <s:vendor>faminine</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0048/8072/8177/products/11_ffc480d9-6952-4fb2-aca5-f6d35472fb19.jpg?v=1608713907"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Distributeur : </strong>faminine<br>
+        <strong>Type : </strong>grocery<br>
+        <strong>Prix : </strong>
+            50.00 - 250.00
+            <a href="https://theme-veggie.myshopify.com/fr/products/reprehenderit-qui-in-east-4">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. decorative lighting</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$500-$1000</s:tag>
+    <s:tag>black</s:tag>
+    <s:tag>green</s:tag>
+    <s:tag>large</s:tag>
+    <s:tag>medium</s:tag>
+    <s:tag>pink</s:tag>
+    <s:variant>
+      <id>https://theme-veggie.myshopify.com/fr/products/2616278515825</id>
+      <title>M / green</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theme-veggie.myshopify.com/fr/products/2616278515825</id>
+      <title>M / black</title>
+      <s:price currency="USD">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theme-veggie.myshopify.com/fr/products/2616278515825</id>
+      <title>L / pink</title>
+      <s:price currency="USD">250.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theme-veggie.myshopify.com/fr/products/2616278351985</id>
+    <published>2019-05-20T02:07:24-04:00</published>
+    <updated>2019-05-20T02:07:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://theme-veggie.myshopify.com/fr/products/perspiciatis-unde-omnis-3"/>
+    <title>perspiciatis unde omnis</title>
+    <s:type>grocery</s:type>
+    <s:vendor>Printed</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0048/8072/8177/products/09_158495e2-1462-4028-840c-578964eff589.jpg?v=1558332449"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Distributeur : </strong>Printed<br>
+        <strong>Type : </strong>grocery<br>
+        <strong>Prix : </strong>
+            500.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Fashion has been creating well-designed collections since 2010. The brand offers feminine designs delivering stylish separates and statement dresses which have since evolved into a full ready-to-wear collection in which every item is a vital part of a woman's wardrobe. The result? Cool, easy, chic looks with youthful elegance and unmistakable signature style. All the beautiful pieces are made in Italy and manufactured with the greatest attention. Now Fashion extends to a range of accessories including shoes, hats, belts and more!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$200-$500</s:tag>
+    <s:tag>blue</s:tag>
+    <s:tag>small</s:tag>
+    <s:variant>
+      <id>https://theme-veggie.myshopify.com/fr/products/2616278351985</id>
+      <title>s / blue</title>
+      <s:price currency="USD">500.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theme-veggie.myshopify.com/fr/products/2616278286449</id>
+    <published>2019-05-20T02:07:13-04:00</published>
+    <updated>2019-05-20T02:07:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://theme-veggie.myshopify.com/fr/products/culpa-quiocia-desunt-8"/>
+    <title>fugiat olutas nulla</title>
+    <s:type>grocery</s:type>
+    <s:vendor>Printed</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0048/8072/8177/products/06.jpg?v=1562224636"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Distributeur : </strong>Printed<br>
+        <strong>Type : </strong>grocery<br>
+        <strong>Prix : </strong>
+            1200.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. decorative lighting</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$1000-$5000</s:tag>
+    <s:tag>green</s:tag>
+    <s:tag>large</s:tag>
+    <s:tag>medium</s:tag>
+    <s:tag>orange</s:tag>
+    <s:tag>pink</s:tag>
+    <s:tag>red</s:tag>
+    <s:tag>small</s:tag>
+    <s:tag>white</s:tag>
+    <s:variant>
+      <id>https://theme-veggie.myshopify.com/fr/products/2616278286449</id>
+      <title>M / white</title>
+      <s:price currency="USD">1200.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theme-veggie.myshopify.com/fr/products/2616278286449</id>
+      <title>M / pink</title>
+      <s:price currency="USD">1200.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theme-veggie.myshopify.com/fr/products/2616278286449</id>
+      <title>M / green</title>
+      <s:price currency="USD">1200.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theme-veggie.myshopify.com/fr/products/2616277762161</id>
+    <published>2019-05-20T02:06:49-04:00</published>
+    <updated>2019-05-20T02:06:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://theme-veggie.myshopify.com/fr/products/culpa-quiocia-desunt-4"/>
+    <title>quis aliquam quaerat voluptatem</title>
+    <s:type>grocery</s:type>
+    <s:vendor>iaculis</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0048/8072/8177/products/01.jpg?v=1562224382"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Distributeur : </strong>iaculis<br>
+        <strong>Type : </strong>grocery<br>
+        <strong>Prix : </strong>
+            400.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Fashion has been creating well-designed collections since 2010. The brand offers feminine designs delivering stylish separates and statement dresses which have since evolved into a full ready-to-wear collection in which every item is a vital part of a woman's wardrobe. The result? Cool, easy, chic looks with youthful elegance and unmistakable signature style. All the beautiful pieces are made in Italy and manufactured with the greatest attention. Now Fashion extends to a range of accessories including shoes, hats, belts and more!</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$300-$500</s:tag>
+    <s:tag>blue</s:tag>
+    <s:tag>medium</s:tag>
+    <s:tag>red</s:tag>
+    <s:variant>
+      <id>https://theme-veggie.myshopify.com/fr/products/2616277762161</id>
+      <title>M / red</title>
+      <s:price currency="USD">400.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theme-veggie.myshopify.com/fr/products/2616277762161</id>
+      <title>M / blue</title>
+      <s:price currency="USD">400.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

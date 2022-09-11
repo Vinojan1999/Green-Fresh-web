@@ -1,0 +1,509 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="fr" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://theme-veggie.myshopify.com/fr/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://theme-veggie.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://theme-veggie.myshopify.com/fr/collections/gift.atom"/>
+  <title>Theme: Veggie (Password: 1)</title>
+  <updated>2019-10-25T01:41:49-04:00</updated>
+  <author>
+    <name>Theme: Veggie (Password: 1)</name>
+  </author>
+  <entry>
+    <id>https://theme-veggie.myshopify.com/fr/products/4313010372721</id>
+    <published>2019-10-25T01:41:49-04:00</published>
+    <updated>2019-10-25T01:41:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://theme-veggie.myshopify.com/fr/products/corporis-suscipit-libor"/>
+    <title>corporis suscipit libor</title>
+    <s:type>gift</s:type>
+    <s:vendor>iaculis</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0048/8072/8177/products/12_32881627-1e0d-4085-b88a-dd883bbe5630.jpg?v=1571982266"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Distributeur : </strong>iaculis<br>
+        <strong>Type : </strong>gift<br>
+        <strong>Prix : </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Fashion has been creating well-designed collections since 2010. The brand offers feminine designs delivering stylish separates and statement dresses which have since evolved into a full ready-to-wear collection in which every item is a vital part of a woman's wardrobe.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$200-$500</s:tag>
+    <s:tag>medium</s:tag>
+    <s:tag>pink</s:tag>
+    <s:variant>
+      <id>https://theme-veggie.myshopify.com/fr/products/4313010372721</id>
+      <title>M / pink</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theme-veggie.myshopify.com/fr/products/4313010733169</id>
+    <published>2019-10-25T01:41:29-04:00</published>
+    <updated>2019-10-25T01:41:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://theme-veggie.myshopify.com/fr/products/similique-suntin-culpaqui"/>
+    <title>similique suntin culpaqui</title>
+    <s:type>gift</s:type>
+    <s:vendor>iaculis</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0048/8072/8177/products/15_75c45135-40bf-478a-ae10-c716fe304efc.jpg?v=1571982354"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Distributeur : </strong>iaculis<br>
+        <strong>Type : </strong>gift<br>
+        <strong>Prix : </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Fashion has been creating well-designed collections since 2010. The brand offers feminine designs delivering stylish separates and statement dresses which have since evolved into a full ready-to-wear collection in which every item is a vital part of a woman's wardrobe.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>red</s:tag>
+    <s:tag>small</s:tag>
+    <s:variant>
+      <id>https://theme-veggie.myshopify.com/fr/products/4313010733169</id>
+      <title>S / red</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theme-veggie.myshopify.com/fr/products/4313010569329</id>
+    <published>2019-10-25T01:41:29-04:00</published>
+    <updated>2019-10-25T01:41:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://theme-veggie.myshopify.com/fr/products/aspetur-autodit-autfugit"/>
+    <title>aspetur autodit autfugit</title>
+    <s:type>gift</s:type>
+    <s:vendor>lectus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0048/8072/8177/products/14_0d42cd29-8fef-46e3-bd50-75ab4493cfb2.jpg?v=1571982315"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Distributeur : </strong>lectus<br>
+        <strong>Type : </strong>gift<br>
+        <strong>Prix : </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Fashion has been creating well-designed collections since 2010. The brand offers feminine designs delivering stylish separates and statement dresses which have since evolved into a full ready-to-wear collection in which every item is a vital part of a woman's wardrobe.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>medium</s:tag>
+    <s:tag>yellow</s:tag>
+    <s:variant>
+      <id>https://theme-veggie.myshopify.com/fr/products/4313010569329</id>
+      <title>M / yellow</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theme-veggie.myshopify.com/fr/products/4307479756913</id>
+    <published>2019-10-23T03:01:02-04:00</published>
+    <updated>2019-10-23T03:01:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://theme-veggie.myshopify.com/fr/products/quaerat-outt-voluptatem-5"/>
+    <title>Quaerat Outt Voluptatem</title>
+    <s:type>gift</s:type>
+    <s:vendor>faminine</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0048/8072/8177/products/04_d3803d91-7069-4797-a321-f51872dc999a.jpg?v=1571836782"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Distributeur : </strong>faminine<br>
+        <strong>Type : </strong>gift<br>
+        <strong>Prix : </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Fashion has been creating well-designed collections since 2010. The brand offers feminine designs delivering stylish separates and statement dresses which have since evolved into a full ready-to-wear collection in which every item is a vital part of a woman's wardrobe.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>medium</s:tag>
+    <s:tag>yellow</s:tag>
+    <s:variant>
+      <id>https://theme-veggie.myshopify.com/fr/products/4307479756913</id>
+      <title>M / yellow</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theme-veggie.myshopify.com/fr/products/4307479560305</id>
+    <published>2019-10-23T03:01:00-04:00</published>
+    <updated>2019-10-23T03:01:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://theme-veggie.myshopify.com/fr/products/quis-autem-euaiure-repren-2"/>
+    <title>Quis Autem Euaiure Repren</title>
+    <s:type>gift</s:type>
+    <s:vendor>vitae</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0048/8072/8177/products/06_2d576ff6-cfc7-4752-a794-126c7043dad3.jpg?v=1571836931"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Distributeur : </strong>vitae<br>
+        <strong>Type : </strong>gift<br>
+        <strong>Prix : </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Fashion has been creating well-designed collections since 2010. The brand offers feminine designs delivering stylish separates and statement dresses which have since evolved into a full ready-to-wear collection in which every item is a vital part of a woman's wardrobe.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>small</s:tag>
+    <s:tag>yellow</s:tag>
+    <s:variant>
+      <id>https://theme-veggie.myshopify.com/fr/products/4307479560305</id>
+      <title>S / yellow</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theme-veggie.myshopify.com/fr/products/4307479199857</id>
+    <published>2019-10-23T03:00:58-04:00</published>
+    <updated>2019-10-23T03:00:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://theme-veggie.myshopify.com/fr/products/quis-culpa-quiocia-desunt-2"/>
+    <title>Quis Culpa Quiocia Desunt</title>
+    <s:type>gift</s:type>
+    <s:vendor>iaculis</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0048/8072/8177/products/07_9bc720c4-6fbf-465b-b7b5-e2b09822ce9d.jpg?v=1571836964"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Distributeur : </strong>iaculis<br>
+        <strong>Type : </strong>gift<br>
+        <strong>Prix : </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Fashion has been creating well-designed collections since 2010. The brand offers feminine designs delivering stylish separates and statement dresses which have since evolved into a full ready-to-wear collection in which every item is a vital part of a woman's wardrobe.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>pink</s:tag>
+    <s:tag>red</s:tag>
+    <s:variant>
+      <id>https://theme-veggie.myshopify.com/fr/products/4307479199857</id>
+      <title>S / pink</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theme-veggie.myshopify.com/fr/products/4307478937713</id>
+    <published>2019-10-23T03:00:56-04:00</published>
+    <updated>2019-10-23T03:00:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://theme-veggie.myshopify.com/fr/products/quis-exercita-tionem-ulam-2"/>
+    <title>Quis Exercita Tionem Ulam</title>
+    <s:type>gift</s:type>
+    <s:vendor>lectus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0048/8072/8177/products/08.jpg?v=1571837108"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Distributeur : </strong>lectus<br>
+        <strong>Type : </strong>gift<br>
+        <strong>Prix : </strong>
+            80.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Fashion has been creating well-designed collections since 2010. The brand offers feminine designs delivering stylish separates and statement dresses which have since evolved into a full ready-to-wear collection in which every item is a vital part of a woman's wardrobe.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$200-$600</s:tag>
+    <s:tag>medium</s:tag>
+    <s:tag>yellow</s:tag>
+    <s:variant>
+      <id>https://theme-veggie.myshopify.com/fr/products/4307478937713</id>
+      <title>M / yellow</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theme-veggie.myshopify.com/fr/products/4307478642801</id>
+    <published>2019-10-23T03:00:54-04:00</published>
+    <updated>2019-10-23T03:00:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://theme-veggie.myshopify.com/fr/products/nostrum-exercitationem-3"/>
+    <title>Nostrum Exercitationem</title>
+    <s:type>gift</s:type>
+    <s:vendor>lectus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0048/8072/8177/products/02_49548547-bfc4-44d1-973f-038a2762a831.jpg?v=1571836716"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Distributeur : </strong>lectus<br>
+        <strong>Type : </strong>gift<br>
+        <strong>Prix : </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Fashion has been creating well-designed collections since 2010. The brand offers feminine designs delivering stylish separates and statement dresses which have since evolved into a full ready-to-wear collection in which every item is a vital part of a woman's wardrobe.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>red</s:tag>
+    <s:tag>small</s:tag>
+    <s:variant>
+      <id>https://theme-veggie.myshopify.com/fr/products/4307478642801</id>
+      <title>S / red</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theme-veggie.myshopify.com/fr/products/4307471564913</id>
+    <published>2019-10-23T02:41:37-04:00</published>
+    <updated>2019-10-23T02:41:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://theme-veggie.myshopify.com/fr/products/reprehenderit-qui-in-east"/>
+    <title>Reprehenderit Qui In East</title>
+    <s:type>gift</s:type>
+    <s:vendor>iaculis</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0048/8072/8177/products/09_e6c8bd16-4b09-41b1-92c1-201cf16c05d1.jpg?v=1572004227"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Distributeur : </strong>iaculis<br>
+        <strong>Type : </strong>gift<br>
+        <strong>Prix : </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Fashion has been creating well-designed collections since 2010. The brand offers feminine designs delivering stylish separates and statement dresses which have since evolved into a full ready-to-wear collection in which every item is a vital part of a woman's wardrobe.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$300-$500</s:tag>
+    <s:tag>medium</s:tag>
+    <s:tag>red</s:tag>
+    <s:variant>
+      <id>https://theme-veggie.myshopify.com/fr/products/4307471564913</id>
+      <title>M / red</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theme-veggie.myshopify.com/fr/products/4307471499377</id>
+    <published>2019-10-23T02:41:36-04:00</published>
+    <updated>2019-10-23T02:41:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://theme-veggie.myshopify.com/fr/products/quis-aliquam-quaerat-voluptatem-1"/>
+    <title>Quis Aliquam Quaerat Voluptatem</title>
+    <s:type>gift</s:type>
+    <s:vendor>iaculis</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0048/8072/8177/products/05_639d39ba-c47d-4a82-8ee4-86ef15a5dbf2.jpg?v=1571836815"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Distributeur : </strong>iaculis<br>
+        <strong>Type : </strong>gift<br>
+        <strong>Prix : </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Fashion has been creating well-designed collections since 2010. The brand offers feminine designs delivering stylish separates and statement dresses which have since evolved into a full ready-to-wear collection in which every item is a vital part of a woman's wardrobe.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>blue</s:tag>
+    <s:tag>small</s:tag>
+    <s:variant>
+      <id>https://theme-veggie.myshopify.com/fr/products/4307471499377</id>
+      <title>S / blue</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theme-veggie.myshopify.com/fr/products/4307471466609</id>
+    <published>2019-10-23T02:41:32-04:00</published>
+    <updated>2019-10-23T02:41:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://theme-veggie.myshopify.com/fr/products/neque-porro-quisquam-2"/>
+    <title>neque porro quisquam</title>
+    <s:type>gift</s:type>
+    <s:vendor>amet</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0048/8072/8177/products/01_3a690a6b-0742-4bdd-9f7f-c3ec0df3a37a.jpg?v=1571836680"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Distributeur : </strong>amet<br>
+        <strong>Type : </strong>gift<br>
+        <strong>Prix : </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Fashion has been creating well-designed collections since 2010. The brand offers feminine designs delivering stylish separates and statement dresses which have since evolved into a full ready-to-wear collection in which every item is a vital part of a woman's wardrobe.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>green</s:tag>
+    <s:tag>large</s:tag>
+    <s:variant>
+      <id>https://theme-veggie.myshopify.com/fr/products/4307471466609</id>
+      <title>L / green</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theme-veggie.myshopify.com/fr/products/4307471335537</id>
+    <published>2019-10-23T02:41:30-04:00</published>
+    <updated>2019-10-23T02:41:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://theme-veggie.myshopify.com/fr/products/voluptate-velit-esse-3"/>
+    <title>voluptate velit esse</title>
+    <s:type>gift</s:type>
+    <s:vendor>amet</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0048/8072/8177/products/11.jpg?v=1571837183"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Distributeur : </strong>amet<br>
+        <strong>Type : </strong>gift<br>
+        <strong>Prix : </strong>
+            70.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Fashion has been creating well-designed collections since 2010. The brand offers feminine designs delivering stylish separates and statement dresses which have since evolved into a full ready-to-wear collection in which every item is a vital part of a woman's wardrobe.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$200-$600</s:tag>
+    <s:tag>medium</s:tag>
+    <s:tag>pink</s:tag>
+    <s:variant>
+      <id>https://theme-veggie.myshopify.com/fr/products/4307471335537</id>
+      <title>M / pink</title>
+      <s:price currency="USD">70.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theme-veggie.myshopify.com/fr/products/4307471040625</id>
+    <published>2019-10-23T02:41:27-04:00</published>
+    <updated>2019-10-23T02:41:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://theme-veggie.myshopify.com/fr/products/perspiciatis-unde-omnis-2"/>
+    <title>Perspiciatis Unde Omnis</title>
+    <s:type>gift</s:type>
+    <s:vendor>Printed</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0048/8072/8177/products/03_e1b81bef-7e40-46f8-bcea-e93f58c78556.jpg?v=1571836747"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Distributeur : </strong>Printed<br>
+        <strong>Type : </strong>gift<br>
+        <strong>Prix : </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Fashion has been creating well-designed collections since 2010. The brand offers feminine designs delivering stylish separates and statement dresses which have since evolved into a full ready-to-wear collection in which every item is a vital part of a woman's wardrobe.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>green</s:tag>
+    <s:tag>medium</s:tag>
+    <s:variant>
+      <id>https://theme-veggie.myshopify.com/fr/products/4307471040625</id>
+      <title>M / green</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

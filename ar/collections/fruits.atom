@@ -1,0 +1,571 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="ar" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://theme-veggie.myshopify.com/ar/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://theme-veggie.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://theme-veggie.myshopify.com/ar/collections/fruits.atom"/>
+  <title>Theme: Veggie (Password: 1)</title>
+  <updated>2019-07-02T01:34:51-04:00</updated>
+  <author>
+    <name>Theme: Veggie (Password: 1)</name>
+  </author>
+  <entry>
+    <id>https://theme-veggie.myshopify.com/ar/products/3892992016497</id>
+    <published>2019-07-02T01:34:51-04:00</published>
+    <updated>2019-07-02T01:34:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://theme-veggie.myshopify.com/ar/products/corporis-suscipit-libors"/>
+    <title>corporis suscipit libors</title>
+    <s:type>fruits</s:type>
+    <s:vendor>lectus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0048/8072/8177/products/15_a99e20c6-2792-4abe-8f7d-0e3d4678f17c.jpg?v=1562045829"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>lectus<br>
+        <strong>Type: </strong>fruits<br>
+        <strong>Price: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$200-$600</s:tag>
+    <s:tag>green</s:tag>
+    <s:tag>medium</s:tag>
+    <s:tag>red</s:tag>
+    <s:variant>
+      <id>https://theme-veggie.myshopify.com/ar/products/3892992016497</id>
+      <title>M / green</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theme-veggie.myshopify.com/ar/products/3892992016497</id>
+      <title>M / red</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theme-veggie.myshopify.com/ar/products/3888982360177</id>
+    <published>2019-06-29T00:24:18-04:00</published>
+    <updated>2019-06-29T00:24:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://theme-veggie.myshopify.com/ar/products/quaerat-outt-voluptatem-4"/>
+    <title>quaerat outt voluptatem</title>
+    <s:type>fruits</s:type>
+    <s:vendor>lectus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0048/8072/8177/products/14_b1553c6c-0735-4748-889f-46ff1b176fb7.jpg?v=1561783838"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>lectus<br>
+        <strong>Type: </strong>fruits<br>
+        <strong>Price: </strong>
+            250.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>green</s:tag>
+    <s:tag>large</s:tag>
+    <s:tag>medium</s:tag>
+    <s:variant>
+      <id>https://theme-veggie.myshopify.com/ar/products/3888982360177</id>
+      <title>M / green</title>
+      <s:price currency="USD">250.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theme-veggie.myshopify.com/ar/products/3888982360177</id>
+      <title>L / green</title>
+      <s:price currency="USD">250.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theme-veggie.myshopify.com/ar/products/3888964436081</id>
+    <published>2019-06-29T00:00:10-04:00</published>
+    <updated>2019-06-29T00:00:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://theme-veggie.myshopify.com/ar/products/nostrum-exercitationem-1"/>
+    <title>nostrum exercitationem</title>
+    <s:type>fruits</s:type>
+    <s:vendor>Printed</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0048/8072/8177/products/13_a1d093bd-f1e6-4d82-81d4-835044c7ced3.jpg?v=1561780935"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Printed<br>
+        <strong>Type: </strong>fruits<br>
+        <strong>Price: </strong>
+            320.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Fashion has been creating well-designed collections since 2010. The brand offers feminine designs delivering stylish separates and statement dresses which have since evolved into a full ready-to-wear collection in which every item is a vital part of a woman's wardrobe. The result? Cool, easy, chic looks with youthful elegance and unmistakable signature style</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$200-$500</s:tag>
+    <s:tag>$300-$500</s:tag>
+    <s:tag>green</s:tag>
+    <s:tag>medium</s:tag>
+    <s:tag>small</s:tag>
+    <s:tag>yellow</s:tag>
+    <s:variant>
+      <id>https://theme-veggie.myshopify.com/ar/products/3888964436081</id>
+      <title>M / yellow</title>
+      <s:price currency="USD">320.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theme-veggie.myshopify.com/ar/products/3888964436081</id>
+      <title>M / green</title>
+      <s:price currency="USD">320.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theme-veggie.myshopify.com/ar/products/3888964436081</id>
+      <title>S / yellow</title>
+      <s:price currency="USD">320.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theme-veggie.myshopify.com/ar/products/3888964436081</id>
+      <title>S / green</title>
+      <s:price currency="USD">320.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theme-veggie.myshopify.com/ar/products/3831002300529</id>
+    <published>2019-06-14T04:40:59-04:00</published>
+    <updated>2019-06-14T04:40:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://theme-veggie.myshopify.com/ar/products/quis-exercita-tionem-ulam"/>
+    <title>quis exercita tionem ulam</title>
+    <s:type>fruits</s:type>
+    <s:vendor>vitae</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0048/8072/8177/products/10_26e8eb4d-ecde-4f3e-ae7c-2cac209e33b5.jpg?v=1560501743"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitae<br>
+        <strong>Type: </strong>fruits<br>
+        <strong>Price: </strong>
+            500.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. decorative lighting</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>large</s:tag>
+    <s:tag>yellow</s:tag>
+    <s:variant>
+      <id>https://theme-veggie.myshopify.com/ar/products/3831002300529</id>
+      <title>L / yellow</title>
+      <s:price currency="USD">500.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theme-veggie.myshopify.com/ar/products/3831000957041</id>
+    <published>2019-06-14T04:38:24-04:00</published>
+    <updated>2019-06-14T04:38:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://theme-veggie.myshopify.com/ar/products/quis-culpa-quiocia-desunt"/>
+    <title>quis culpa quiocia desunt</title>
+    <s:type>fruits</s:type>
+    <s:vendor>lectus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0048/8072/8177/products/09_881eadba-9d8d-4032-9f54-1d3e4ddd5f43.jpg?v=1560501602"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>lectus<br>
+        <strong>Type: </strong>fruits<br>
+        <strong>Price: </strong>
+            800.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. decorative lighting</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>green</s:tag>
+    <s:tag>small</s:tag>
+    <s:variant>
+      <id>https://theme-veggie.myshopify.com/ar/products/3831000957041</id>
+      <title>s / green</title>
+      <s:price currency="USD">800.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theme-veggie.myshopify.com/ar/products/3831000170609</id>
+    <published>2019-06-14T04:36:34-04:00</published>
+    <updated>2019-06-14T04:36:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://theme-veggie.myshopify.com/ar/products/quis-corporis-suscipit-libor"/>
+    <title>quis corporis suscipit libor</title>
+    <s:type>fruits</s:type>
+    <s:vendor>iaculis</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0048/8072/8177/products/08_d1879f16-e9bf-4ef6-9b53-8d9ec5eaa2cb.jpg?v=1560501480"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>iaculis<br>
+        <strong>Type: </strong>fruits<br>
+        <strong>Price: </strong>
+            900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. decorative lighting</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>green</s:tag>
+    <s:tag>medium</s:tag>
+    <s:variant>
+      <id>https://theme-veggie.myshopify.com/ar/products/3831000170609</id>
+      <title>M / green</title>
+      <s:price currency="USD">900.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theme-veggie.myshopify.com/ar/products/3830998827121</id>
+    <published>2019-06-14T04:32:28-04:00</published>
+    <updated>2019-06-14T04:32:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://theme-veggie.myshopify.com/ar/products/quis-autem-euaiure-repren"/>
+    <title>quis autem euaiure repren</title>
+    <s:type>fruits</s:type>
+    <s:vendor>faminine</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0048/8072/8177/products/07_0994af80-44dd-49c6-b027-e1c8846328fe.jpg?v=1560501341"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>faminine<br>
+        <strong>Type: </strong>fruits<br>
+        <strong>Price: </strong>
+            800.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. decorative lighting</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>small</s:tag>
+    <s:tag>yellow</s:tag>
+    <s:variant>
+      <id>https://theme-veggie.myshopify.com/ar/products/3830998827121</id>
+      <title>s / yellow</title>
+      <s:price currency="USD">800.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theme-veggie.myshopify.com/ar/products/3830995026033</id>
+    <published>2019-06-14T04:30:08-04:00</published>
+    <updated>2019-06-14T04:30:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://theme-veggie.myshopify.com/ar/products/quis-aliquam-quaerat-voluptatem"/>
+    <title>quis aliquam quaerat voluptatem</title>
+    <s:type>fruits</s:type>
+    <s:vendor>amet</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0048/8072/8177/products/06_5bb57acd-5f68-4921-ae63-34c4d013aaaf.jpg?v=1560501079"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>amet<br>
+        <strong>Type: </strong>fruits<br>
+        <strong>Price: </strong>
+            700.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Fashion has been creating well-designed collections since 2010. The brand offers feminine designs delivering stylish separates and statement dresses which have since evolved into a full ready-to-wear collection in which every item is a vital part of a woman's wardrobe. The result? Cool, easy, chic looks with youthful elegance and unmistakable signature style. All the beautiful pieces are made in Italy and manufactured with the greatest attention. Now Fashion extends to a range of accessories including shoes, hats, belts and more!</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>medium</s:tag>
+    <s:tag>yellow</s:tag>
+    <s:variant>
+      <id>https://theme-veggie.myshopify.com/ar/products/3830995026033</id>
+      <title>M / yellow</title>
+      <s:price currency="USD">700.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theme-veggie.myshopify.com/ar/products/3830993387633</id>
+    <published>2019-06-14T04:27:17-04:00</published>
+    <updated>2019-06-14T04:27:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://theme-veggie.myshopify.com/ar/products/quaerat-outt-voluptatem"/>
+    <title>quaerat outt voluptatem</title>
+    <s:type>fruits</s:type>
+    <s:vendor>Printed</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0048/8072/8177/products/05_c1e8b164-78ba-4afa-ab79-5c8450c77119.jpg?v=1560500930"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Printed<br>
+        <strong>Type: </strong>fruits<br>
+        <strong>Price: </strong>
+            400.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. decorative lighting</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>blue</s:tag>
+    <s:tag>large</s:tag>
+    <s:variant>
+      <id>https://theme-veggie.myshopify.com/ar/products/3830993387633</id>
+      <title>L / blue</title>
+      <s:price currency="USD">400.00</s:price>
+      <s:sku>-</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theme-veggie.myshopify.com/ar/products/3830883680369</id>
+    <published>2019-06-14T03:16:19-04:00</published>
+    <updated>2019-06-14T03:16:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://theme-veggie.myshopify.com/ar/products/perspiciatis-unde-omnis"/>
+    <title>perspiciatis unde omnis</title>
+    <s:type>fruits</s:type>
+    <s:vendor>vitae</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0048/8072/8177/products/04_f1242b1e-925d-45e2-8fd6-8c68af32be6e.jpg?v=1562242884"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitae<br>
+        <strong>Type: </strong>fruits<br>
+        <strong>Price: </strong>
+            700.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Fashion has been creating well-designed collections since 2010. The brand offers feminine designs delivering stylish separates and statement dresses which have since evolved into a full ready-to-wear collection in which every item is a vital part of a woman's wardrobe. The result? Cool, easy, chic looks with youthful elegance and unmistakable signature style. All the beautiful pieces are made in Italy and manufactured with the greatest attention. Now Fashion extends to a range of accessories including shoes, hats, belts and more!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>blue</s:tag>
+    <s:tag>red</s:tag>
+    <s:tag>small</s:tag>
+    <s:variant>
+      <id>https://theme-veggie.myshopify.com/ar/products/3830883680369</id>
+      <title>s / red</title>
+      <s:price currency="USD">700.00</s:price>
+      <s:sku>-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theme-veggie.myshopify.com/ar/products/3830883680369</id>
+      <title>s / yellow</title>
+      <s:price currency="USD">700.00</s:price>
+      <s:sku>-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theme-veggie.myshopify.com/ar/products/3830875717745</id>
+    <published>2019-06-14T03:12:34-04:00</published>
+    <updated>2019-06-14T03:12:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://theme-veggie.myshopify.com/ar/products/neque-porro-quisquam"/>
+    <title>neque porro quisquam</title>
+    <s:type>fruits</s:type>
+    <s:vendor>iaculis</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0048/8072/8177/products/03_1420914d-fc2e-4c52-9aa5-072be809278e.jpg?v=1560503261"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>iaculis<br>
+        <strong>Type: </strong>fruits<br>
+        <strong>Price: </strong>
+            700.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. decorative lighting<br><br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>large</s:tag>
+    <s:tag>medium</s:tag>
+    <s:tag>white</s:tag>
+    <s:variant>
+      <id>https://theme-veggie.myshopify.com/ar/products/3830875717745</id>
+      <title>M / white</title>
+      <s:price currency="USD">700.00</s:price>
+      <s:sku>-</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theme-veggie.myshopify.com/ar/products/3830875717745</id>
+      <title>L / white</title>
+      <s:price currency="USD">700.00</s:price>
+      <s:sku>-</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theme-veggie.myshopify.com/ar/products/3830870540401</id>
+    <published>2019-06-14T03:09:41-04:00</published>
+    <updated>2019-06-14T03:09:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://theme-veggie.myshopify.com/ar/products/magni-dolores-eosquies"/>
+    <title>magni dolores eosquies</title>
+    <s:type>fruits</s:type>
+    <s:vendor>Printed</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0048/8072/8177/products/02_69bda7ef-9b8e-4356-8a49-8b3804def238.jpg?v=1560503316"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Printed<br>
+        <strong>Type: </strong>fruits<br>
+        <strong>Price: </strong>
+            500.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. decorative lighting</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>medium</s:tag>
+    <s:tag>orange</s:tag>
+    <s:tag>small</s:tag>
+    <s:variant>
+      <id>https://theme-veggie.myshopify.com/ar/products/3830870540401</id>
+      <title>M / orange</title>
+      <s:price currency="USD">500.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theme-veggie.myshopify.com/ar/products/3830870540401</id>
+      <title>s / orange</title>
+      <s:price currency="USD">500.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theme-veggie.myshopify.com/ar/products/3830861004913</id>
+    <published>2019-06-14T03:03:13-04:00</published>
+    <updated>2019-06-14T03:03:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://theme-veggie.myshopify.com/ar/products/fugiat-olutas-nulla"/>
+    <title>fugiat olutas nulla</title>
+    <s:type>fruits</s:type>
+    <s:vendor>lectus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0048/8072/8177/products/01_9fef7281-f4b3-4b48-9f72-98ed4608cd47.jpg?v=1560582598"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>lectus<br>
+        <strong>Type: </strong>fruits<br>
+        <strong>Price: </strong>
+            100.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. decorative lighting</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>medium</s:tag>
+    <s:tag>yellow</s:tag>
+    <s:variant>
+      <id>https://theme-veggie.myshopify.com/ar/products/3830861004913</id>
+      <title>M / yellow</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>-</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
